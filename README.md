@@ -43,8 +43,9 @@ Plant Disease Detector is a native Android app built with **Kotlin** that levera
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/shiv2130/App_for_Plant_Disease_Detector.git
+   git clone https://github.com/suyashvasudevsingh/App_for_Plant_Disease_Detector.git
    cd App_for_Plant_Disease_Detector
    ```
 
@@ -113,7 +114,7 @@ This project is open source. Feel free to use, modify, and distribute it with at
 
 ## 👤 Author
 
-**Shiv** — [@shiv2130](https://github.com/shiv2130)
+**Suyash Vasudev Singh** — [@suyashvasudevsingh](https://github.com/suyashvasudevsingh)
 
 ---
 
