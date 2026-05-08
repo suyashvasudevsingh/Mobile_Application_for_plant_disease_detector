@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detector
+# 🌿 Plant Disease-Detector
 
 An Android application that helps farmers, gardeners, and agricultural enthusiasts identify plant diseases quickly and accurately — right from their smartphone camera.
 
